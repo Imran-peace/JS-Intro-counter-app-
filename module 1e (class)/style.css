@@ -1,0 +1,36 @@
+
+body{
+    background-image: url('./assets/counter\ app\ bg.jpg');
+    background-size: cover;
+    background-position: center;
+
+}
+.container{
+    background-image: url('./assets/counter\ app\ bg1.avif');
+    width: 400px;
+    height: 330px;
+    text-align: center;
+    margin: 50px auto;
+}
+h2{
+    font-size: 45px;
+}
+button{
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+}
+#increment-btn{
+    background: darkred;
+
+}
+#save-btn{
+    background: green;
+    margin-top: 10px;
+}
+#save-el{
+    font-size: 22px;
+}

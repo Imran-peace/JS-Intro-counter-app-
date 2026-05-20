@@ -1,0 +1,40 @@
+
+body{
+    background-image: url("./assets/counter\ app\ bg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.container{
+    background-image: url("./assets/counter\ app\ bg1.avif");
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+}
+h2{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+
+/* Task2 */
+button{
+    width: 200px;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+}
+#increment-btn{
+    background: darkred;
+}
+
+#save-btn{
+background: green;
+margin-top: 15px;
+}
